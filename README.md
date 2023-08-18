@@ -1,2 +1,4 @@
-# Sorting-Algorithms
- It has been prepared in line with my abilities. I can't say it contains precise and most efficient results.
+# SortingAlgorithms
+It is a project where sorting algorithms are applied by visualizing.
+
+![Unity_vkHsTfxX5D](https://github.com/oguzhandelibas/SortingAlgorithms/assets/64430254/b478ee5b-cb82-47a8-b684-a554e98212ff)
